@@ -1,2 +1,2 @@
 # My-Skin
-A Skincare App
+A Skincare App utilizing Gemini API
